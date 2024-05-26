@@ -1,0 +1,52 @@
+[
+    {
+        "text": "What is the correct way to comment a line in Python?",
+        "options": ["// This is a comment", "/* This is a comment */", "# This is a comment", "<!-- This is a comment -->"],
+        "correct": "# This is a comment"
+    },
+    {
+        "text": "What will be the output of the following Python code: `print(type([]))`?",
+        "options": ["<class 'list'>", "<class 'tuple'>", "<class 'dict'>", "<class 'str'>"],
+        "correct": "<class 'list'>"
+    },
+    {
+        "text": "Which of the following is not a Python built-in function?",
+        "options": ["len()", "sum()", "print()", "insert()"],
+        "correct": "insert()"
+    },
+    {
+        "text": "What is the output of the following Python code: `print(3 * 'abc ')`?",
+        "options": ["abc abc abc ", "abcabcabc", "abc * 3", "Error"],
+        "correct": "abc abc abc "
+    },
+    {
+        "text": "Which of the following is not a valid Python data type?",
+        "options": ["list", "tuple", "array", "dictionary"],
+        "correct": "array"
+    },
+    {
+        "text": "What is the output of the following Python code: `print('Hello, ' + 'World!')`?",
+        "options": ["Hello, World!", "Hello, World", "Hello World!", "Hello World"],
+        "correct": "Hello, World!"
+    },
+    {
+        "text": "What does the `strip()` method do in Python?",
+        "options": ["Removes spaces at the beginning and end of a string", "Removes all spaces in a string", "Converts a string to lowercase", "Converts a string to uppercase"],
+        "correct": "Removes spaces at the beginning and end of a string"
+    },
+    {
+        "text": "What is the output of the following Python code: `print(bool('False'))`?",
+        "options": ["True", "False", "Error", "None"],
+        "correct": "True"
+    },
+    {
+        "text": "What is the output of the following Python code: `print(2 ** 3)`?",
+        "options": ["6", "8", "9", "Error"],
+        "correct": "8"
+    },
+    {
+        "text": "Which of the following is not a valid comparison operator in Python?",
+        "options": ["==", "!=", "<>", "==="],
+        "correct": "==="
+    }
+]

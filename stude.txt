@@ -1,0 +1,92 @@
+[
+    {
+        "first_name": "Shachar",
+        "last_name": "Dalal",
+        "email": "shchar.dalal@e.braude.ac.il",
+        "courses": [
+            "Introduction to cloud computing",
+            "Algorithms for texts and sequences",
+            "Computer graphics",
+            "Compilation theory",
+            "Computer networks",
+            "Digital signal processing DSP",
+            "Seminar on matching project templates"
+        ],
+        "link": "https://www.google.co.il",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Shahar",
+        "last_name": "Vachiler",
+        "email": "shaharvac95@gmail.com",
+        "courses": [
+            "Cloud Computing",
+            "Algorithms for texts and sequences",
+            "Seminar in patterns",
+            "Final Project part 1",
+            "Computing Networks",
+            "Compilation Theory"
+        ],
+        "link": "https://aniwave.to",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Aviv",
+        "last_name": "Cohen",
+        "email": "aviv.cohen@e.braude.ac.il",
+        "courses": [
+            "Introduction to cloud computing",
+            "Compilation Theory",
+            "Advanced Web Technologies",
+            "Probability",
+            "Physics",
+            "RT Computing"
+        ],
+        "link": "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Yael",
+        "last_name": "Kanter",
+        "email": "yael.kanter@e.braude.ac.il",
+        "courses": [
+            "Physics for software",
+            "Automata",
+            "Probability cloud computing",
+            "Web technologies"
+        ],
+        "link": "https://www.youtube.com/watch?v=7rDeTPxIz-Q&ab_channel=ClashWorld",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Yoav",
+        "last_name": "Katz",
+        "email": "Yoav.Katz@e.braude.ac.il",
+        "courses": [
+            "Introduction to cloud computing",
+            "Probability for Software Engineering",
+            "Automata and Computability",
+            "Mechanics for Software Engineering",
+            "Advanced Web Technologies"
+        ],
+        "link": "https://www.linkedin.com/in/yoav-katz-full-stack/",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Iris",
+        "last_name": "Kanter",
+        "email": "iris.kanter@e.braude.ac.il",
+        "courses": [
+            "Operating Systems",
+            "Algebraic Structures for Software Engineering 2",
+            "Introduction to Cloud Computing",
+            "Algorithms",
+            "Physics"
+        ],
+        "link": "https://www.youtube.com/watch?v=7rDeTPxIz-Q&ab_channel=ClashWorld",
+        "favorite_show": ""
+    }
+]
+
+
+
